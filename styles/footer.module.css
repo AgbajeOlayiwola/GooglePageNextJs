@@ -1,0 +1,30 @@
+.topFoot{
+    background-color: #d3d3d3;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.topFooti{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.hr{
+    margin: 0px;
+}
+
+
+.bottomFoot{
+    background-color: #d3d3d3;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btmFooti{
+    display: flex;
+}
+.btmFootii{
+    display: flex;
+}
+.btmFootP{
+    margin-left: 10px;
+}

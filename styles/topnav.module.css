@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 20px;
+}
+.secondConta{
+    display: flex;
+    justify-content: space-between;
+}
+.gmlTxt{
+ margin-right: 20px;
+}
+.imgTxt{
+    margin-right: 20px;
+}
+.sgnBtn{
+    border: none;
+    background-color: #4285F4;
+    color: #fff;
+    margin-right: 20px;
+    height: 33px;
+    margin-top: 11px;
+}
